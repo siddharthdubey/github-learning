@@ -1,1 +1,3 @@
 Day 1: Learning GitHub using VS Code
+Day 2: Creating branch, making changes, and finally
+committing the new changes.
